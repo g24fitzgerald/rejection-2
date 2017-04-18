@@ -1,2 +1,2 @@
 # rejection-2
-tracking rejections 
+A UI to track my job rejections
